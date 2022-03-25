@@ -1,0 +1,14 @@
+{
+  "name": "test-es",
+  "version": "1.0.0",
+  "description": "Backend application to serve an online test application",
+  "main": "server.js",
+  "type": "module",
+  "author": {
+    "name": "Herbert Gunibert Temba",
+    "email": "herbert.temba@nmbbank.co.tz"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
